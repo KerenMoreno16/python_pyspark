@@ -24,8 +24,8 @@ def calculate_red_violations(data_source):
     - 10 principais estabelecimentos com mais infracoes vermelhas
     - 10 principais cidades com mais infracoes vermelhas
 
-    :param data_source: The URI of your food establishment data CSV, such as 's3://amzn-s3-demo-bucket/food-establishment-data.csv'.
-    :param output_uri: The URI where output is written, such as 's3://amzn-s3-demo-bucket/restaurant_violation_results'.
+	USE THE DATASET HERE:
+	   data_source link = https://data.kingcounty.gov/Health-Wellness/Food-Establishment-Inspection-Data/f29f-zza5/about_data
     """
 
     #Carregando os dados do restaurante em CSV
